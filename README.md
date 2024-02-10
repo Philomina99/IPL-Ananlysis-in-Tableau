@@ -5,3 +5,6 @@ Player Performance Analysis: Explore the performance of individual players over 
 Team Analysis: Evaluate team performances across different seasons. Visualizations can highlight win-loss ratios, run rates, team rankings, and performance trends over time.
 Interactive Features: Enhance user engagement by incorporating interactive features such as filters, parameters, tooltips, and drill-down options in Tableau visualizations.
 Insights and Recommendations: Summarize key findings and actionable insights derived from the IPL analysis.
+
+Here is a Link For Tableau Dashboard:
+https://public.tableau.com/app/profile/philomina.khristy/viz/IPLAnalysis_17074731135830/IPLAnalysis?publish=yes
